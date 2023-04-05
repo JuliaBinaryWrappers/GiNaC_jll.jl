@@ -1,0 +1,288 @@
+[[GiNaC]]
+arch = "aarch64"
+git-tree-sha1 = "f39d9112c74d16d1bad57dca4ae459d399521735"
+os = "macos"
+
+    [[GiNaC.download]]
+    sha256 = "4a6ca130b3597790d716d17b39cab252fc293f0367069be466c368472bc388b3"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.aarch64-apple-darwin.tar.gz"
+[[GiNaC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69039a6e82ff1dc3d0018197d13a5f3e0cf4bb20"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "4f3ed7e3a45f383c727601a3706f78c48bf514384a2c37c4e46c52f339a0eaaf"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.aarch64-linux-gnu-cxx03.tar.gz"
+[[GiNaC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c8e0f0bc0e1a1c2a08e14986153848bfb110de6"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "2e50c237793a9e4da1790a6c8c24984e3c6e3f419baefae626ab98fdffc66651"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.aarch64-linux-gnu-cxx11.tar.gz"
+[[GiNaC]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c705958be8ce43f774bac1d541bef0901dee98a0"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "404b4ab62f5f54aa3c14c41bd12936778548c8463ce1e64ea975097a1718211b"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.aarch64-linux-musl-cxx03.tar.gz"
+[[GiNaC]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77798df90c32f4509c93f59acf69c7eded31c9ed"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "d82690bc1721a30ba3e062f3d431dec1884c652c48968a5dbaeb698e64ddaa76"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.aarch64-linux-musl-cxx11.tar.gz"
+[[GiNaC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "62654f870f0886b36769bc19fa2402844480e383"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "3012d0f6ee6ca42667680bdcca97d5b2c02e997ab5eb237d374b6810f86bee57"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[GiNaC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2780bf819867afbd4932d062ef443a0dfd4acde6"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "12511aa1283dcb16edd4afb864946cbba6d57598c1b04c04ff7e652082e62d75"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[GiNaC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72519e25039b2f8ff00cb80c9b5096f94569bcdd"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "19b76703b2cd87627b41cbd532b89ee21a28de4f52ae187f7b057e9e5d670a3f"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[GiNaC]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ff6486c666e45e8d6246933796a5563909aaf28"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "c3431fd5fa47dfa7548acc077ebf7df8d8e4da089a70b8d9d9298e36a2990ad9"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[GiNaC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "691178ac7f104368453bcee082576fda060dcdcf"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "4309629f58bfb943e4d8d835d93387ec5700aa9957048f70e419a2e7fa5faf77"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GiNaC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "880c82c7959f7a914412b90099eaccacf6fd7510"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "96e4727bf6a76d7d4f011241fc5e5ded843c1105e68bdc663d91e26e942d10b8"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GiNaC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca111845a43e046a2346291ba06e8f40455a4ab5"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "92c117a306e3af52939f261646964331f51160c4aa97da91d3d9c8eec84354ae"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GiNaC]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bada96cb78dfd76c9445b83b7013b42884b4997a"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "47f58044e3f17b3cdff237aa8d28fa3beb55380e9ab6959047a722c1bde0f968"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd1ca28a35331d3b2f08864b3c439bea7f729303"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "53bead9bf4898545292c58281d577dafe3ffe749f071aff6177b40104974506c"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-linux-gnu-cxx03.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c286f258238cf3a00fc2babe30e8f126b1540a2"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "bb89a959ca034bf2913d62fb0d73e0df3d22ef75148ad995e00a44dfc7c5fdaa"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-linux-gnu-cxx11.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9972a92fc28f44ffe8b4213daa0ca4d7a64c62f9"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "3645581486a7cb07157312543d3f7ac2e88fb214bf914991da1784beaa09fff4"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-linux-musl-cxx03.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a4aae2618bda513451d66c90380bca993104a39d"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "50033055c9a324b53964e98c9a9b8ed34eb4e04d023dfaa7e5fa099513149ddf"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-linux-musl-cxx11.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b31216c21f5e52e5ad9da425d172581040f5aca"
+os = "windows"
+
+    [[GiNaC.download]]
+    sha256 = "dc2330cf6f9496b25cbb6792abc8fc939a509f0d6d0f8fd306885d81c2dc051c"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-w64-mingw32-cxx03.tar.gz"
+[[GiNaC]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c23a30cf112cf90692a8dfe372112af6212bf314"
+os = "windows"
+
+    [[GiNaC.download]]
+    sha256 = "00d8c47b9ebcb659a22e19e94b42aea627e771866e31e4fa0062ace31304a6b4"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.i686-w64-mingw32-cxx11.tar.gz"
+[[GiNaC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "066cb8ca7552dc85618b3220f3da0e5ea5c1d9d5"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "b1a7bee45134630048b56e76b18b9974f6f23471d97e1cc7d20a4202fd6fa01c"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GiNaC]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0ceda5af8079af61a76813f92ebe23ded1196d69"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "f33e2068452cd4ce83c85ccc58bf14c783475b559b5d93ff0b0b12341619152e"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+git-tree-sha1 = "d1eff8f5a6dae5005c84630eab5749f0de5fea1c"
+os = "macos"
+
+    [[GiNaC.download]]
+    sha256 = "e518cb5080c941903445fddbd3ee5411fdc9473d3b9ecfe1b22dd062bd5269ef"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-apple-darwin.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "20d4ed1f7ca37d7f01d933e6aa275b19f1d49bc2"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "0a07d7dc635046a5c74bf0513b654fbecc9857d3309825cb5a363011a6cf6342"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-linux-gnu-cxx03.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec2334cc0f29aba45371bf8c4298747eb59113db"
+libc = "glibc"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "e2174ffebba57a253d09263d3c8e1d6853226e5654c6a2ef316bc8b120e983fa"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-linux-gnu-cxx11.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b90db502bebfe002d451ddc198aa7b0eaea79f03"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "5e0a7c7ef46799a127de10f1569dd50933fcdaeb8ab60280bb8768c5025406a4"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-linux-musl-cxx03.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52164f02faa915467a39a7b92df8a6edf3652529"
+libc = "musl"
+os = "linux"
+
+    [[GiNaC.download]]
+    sha256 = "33f06d01e69808a8185bd696f8d81333476977988de3e11db1cde14b481b95eb"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-linux-musl-cxx11.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+git-tree-sha1 = "805edb81bc93bfbf296110414155db60df43d1cc"
+os = "freebsd"
+
+    [[GiNaC.download]]
+    sha256 = "2190641c031fdf3ec29f8dd1b14ea5e7e62f1f7ebb517f0d8668e207c6a1318f"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-unknown-freebsd.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "38311f0224c3c789a1e7ca929acdf4c1b29b2f3a"
+os = "windows"
+
+    [[GiNaC.download]]
+    sha256 = "275449ccf8513cef86f6f348bd4f2f9e5a7baec7d0d5927ec3fd1e92029b654f"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GiNaC]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97a4f455d297c85b8c2ab35d9ad2a23ebee940ec"
+os = "windows"
+
+    [[GiNaC.download]]
+    sha256 = "855695df996b086d522382be723cb583905a273a4db44001c0efa129aa7afd8f"
+    url = "https://github.com/JuliaBinaryWrappers/GiNaC_jll.jl/releases/download/GiNaC-v1.8.6+0/GiNaC.v1.8.6.x86_64-w64-mingw32-cxx11.tar.gz"
